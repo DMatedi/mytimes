@@ -181,6 +181,7 @@ li {
 }
 
 .center.top {
+
   padding-top: 0;
   position: relative;
 }
@@ -216,25 +217,10 @@ li {
   justify-content: center;
   flex-direction: column;
 } */
-.center.bottom.txt p {
+.medium.bottom.txt p {
+
 }
 
-/* right column */
-
-/* .column.center {
-  display: flex;
-  flex-direction: column;
-  margin-right: 32px;
-}
-
-.column.medium {
-  width: 300px;
-}
-
-.center.top {
-  padding-top: 0;
-  position: relative;
-} */
 
 
 /*
